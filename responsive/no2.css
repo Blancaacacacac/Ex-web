@@ -1,0 +1,12 @@
+*{margin:0;padding:0}
+.ex{margin:20px 0;}
+#pics{
+  width: 1000px;
+  height: 1000px;
+  background-image: url(1.jpeg);
+}
+@media only screen and ( max-width: 800px ){
+  #pics{
+    background-image: url(cute.jpeg);
+  }
+}

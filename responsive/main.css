@@ -1,0 +1,23 @@
+*{margin:0;padding:0}
+body{margin:10px 100px 250px 100px;border: 10px solid #FFFACD}
+.ex{margin:20px 0;}
+.demo{
+  color: white;
+}
+#box{
+  width:10vw;
+  height:10vw;
+  background-color: #E9967A;
+}
+#box2{
+  width: 20vw;
+  height: 15vw;
+  background-color: #D2691E;
+
+}
+#box3{
+  width: 100px;
+  height: 50px;
+  background-color: ##FAEBD7;
+
+/*   margin-left:calc(1500px - 100vw); */
